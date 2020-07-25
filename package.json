@@ -1,0 +1,19 @@
+{
+    "name": "fade-in-fade-out",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gulp": "^4.0.2",
+        "lite-server": "^2.5.4",
+        "minimist": "^1.2.3",
+        "sass": "^1.26.10"
+    }
+}
